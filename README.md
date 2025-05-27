@@ -22,8 +22,6 @@ The project covers essential NLP components and serves as a personal learning lo
 
 - 🎓 **Educational Notes**  
   Acts as a learning resource, with annotated code and experiments.
-- 🎓 **Text Classification Project**  
-   Make a Text Classification Model that involves preprocessing, vectorization, word2vec.
 
 ---
 
